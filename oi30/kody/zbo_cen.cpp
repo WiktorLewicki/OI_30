@@ -1,5 +1,4 @@
 //Autor: Wiktor Lewicki
-//https://usaco.guide/plat/centroid?lang=cpp
 #include <bits/stdc++.h>
 #define pb push_back
 #define ll long long
