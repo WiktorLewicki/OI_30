@@ -1,0 +1,2 @@
+Do zborza napisałem dwa kody, jeden to HLD- złożoność O(N*log^2 N),
+oraz drugi rozbiciem przez centroid- złożoność O(N*log N)
